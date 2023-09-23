@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - I sought to create a webpage to help keep track of class work. 
 - I built this project because it reinforces many of the skills that will be later used during bootcamp. It holds a dual puprose in being a tool for note taking as well as a tool for learning hands on code.
 - The webpage will allow me to better keep track of progress in class of notes as well as important reminders.
